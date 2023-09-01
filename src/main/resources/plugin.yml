@@ -1,0 +1,5 @@
+name: GoldenJan
+version: '${project.version}'
+main: minecraft.goldenjan.GoldenJan
+api-version: '1.19'
+author: JanX_X
